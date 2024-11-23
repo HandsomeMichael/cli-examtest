@@ -9,9 +9,9 @@ it always make me feel not stressed and happy all the time wow
 
 ## What you need
 
-Python or something also windows
+The python version need python
 
-C++ version is clearly broken
+The c++ version need a computer to work wow
 
 ## The Fuck is ".exam"
 
@@ -22,16 +22,16 @@ question | answer a;answer b;answer c;answer d;answer e; | correctanswer
 ```
 example 
 ```
-What is the capital of France? | Paris,London,Berlin,Madrid,Rome | a
+What is the capital of France? | Paris;London;Berlin;Madrid;Rome | a
 ```
 
 ## Chatgpt
 
 Just ask give chatgpt your docx or pdf exam files with answers and told them to format into one of theese
 ```
-What is the capital of France? | Paris,London,Berlin,Madrid,Rome | a
-What is 2 + 2? | 3,4,5,6,7 | b
-Which language is primarily spoken in Brazil? | English,Spanish,French,Portuguese,German | d
+What is the capital of France? | Paris;London;Berlin;Madrid;Rome | a
+What is 2 + 2? | 3;4;5;6;7 | b
+Which language is primarily spoken in Brazil? | English;Spanish;French;Portuguese;German Ass | d
 ``` 
 
 ## Credits
